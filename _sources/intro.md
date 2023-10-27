@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# Inteligencia Artificial
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+La Inteligencia Aritifical (IA) imita los procesos de la inteligencia humana con la creación e implementación de algoritmos creados por especialista en un entorno dinámico de computación.
 
-Check out the content pages bundled with this sample book to see more.
+La IA consiste en intentar que los ordenadores piensen y actúen como humanos es una forma más sencilla de explicarla.
 
 ```{tableofcontents}
 ```
