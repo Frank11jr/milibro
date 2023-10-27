@@ -17,12 +17,8 @@ kernelspec:
 La IA se aplica en nuestro vida diaria, así como en en los servicios financieros, la detección de fraude, las predicciones de compras en comercios y en la interacciones de asistencia al cliente en línea. 
 Algunos ejemplos son:
 
--- Detección del fraude: 
+-- Detección del fraude: En el sector finaciero utilizan la IA de dos maneras diferentes. La utilizan para saber cuál es la capacidad crediticia. Además, para detectar transacciones fraudulentas al realizar pagos en tiempo real por lo que se necesita motores de IA avanzados.
 
-En el sector finaciero utilizan la IA de dos maneras diferentes. La utilizan para saber cuál es la capacidad crediticia. Además, para detectar transacciones fraudulentas al realizar pagos en tiempo real por lo que se necesita motores de IA avanzados.
+-- Ayuda virtual para clientes:Lo utulizan para predecir y responder consultas de clientes sin la interacción humana. Utlizan lo que es el reconocimiento de voz, que va acompañado de un diálogo humano simulado en la consulta del cliente.
 
--- Ayuda virtual para clientes:
-
-Lo utulizan para predecir y responder consultas de clientes sin la interacción humana. Utlizan lo que es el reconocimiento de voz, que va acompañado de un diálogo humano simulado en la consulta del cliente.
-
--- Otras de las situaciones donde podemos tener la ayuda de la IA es en la creación de chat (bot conversacional), en el caso que el cbot conversacinal no pueda interpretar la pregunta inmediatamente interviene una persona para ayudarla.
+-- Otras de las situaciones donde podemos tener la ayuda de la IA es en la creación de chat (bot conversacional), en el caso que el bot conversacinal no pueda interpretar la pregunta inmediatamente interviene una persona para ayudarla.
